@@ -73,7 +73,10 @@ margin-bottom: 20px;
         margin-top: 8px;
     }
    
-   
+    .video-col {
+        margin-top:0;
+        
+    }
     .video-col video{
         width: 100%;
         
